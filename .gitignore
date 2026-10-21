@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Terraform
 .terraform/
 *.tfstate
@@ -18,4 +19,26 @@
 .Spotlight-V100
 .Trashes
 ehthumbs.db
+=======
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+.terraform.tfstate.lock.info
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+>>>>>>> ef757b259903f7e8fcdcb5bbabd2f33d6c558a2e
 Thumbs.db
